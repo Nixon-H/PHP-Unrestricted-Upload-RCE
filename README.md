@@ -110,7 +110,7 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 
 ## Remediation Recommendations
 
-### 1. Secure File Upload Implementation
+### Secure File Upload Implementation
 
 To mitigate the RCE vulnerability, the following changes must be implemented in all upload scripts:
 
